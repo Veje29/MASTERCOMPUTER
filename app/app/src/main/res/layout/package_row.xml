@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:layout_marginBottom="15dp"
+    android:background="@drawable/rounded_edittext_background_grey">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="0.7">
+            <TextView
+                android:id="@+id/package_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_marginVertical="5dp"
+                android:text="Gaming E-Sports Blockade"/>
+
+            <TextView
+                android:id="@+id/package_price"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Rp.6.969.800,"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/package_description"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginVertical="5dp"
+                android:text="AMD Ryzen 5 4500 3.6Ghz Up To 4.1Ghz, MSI B450 A Pro MAX,  GALAX Geforce GTX 1660 6GB DDR5 "
+                android:textColor="@color/black"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/photo"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_height="match_parent"
+            android:src="@drawable/zeus_300_x_computer"/>
+    </LinearLayout>
+</LinearLayout>

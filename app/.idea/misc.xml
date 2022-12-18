@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/drawable/circle.xml" value="0.141" />
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/drawable/gradient_red_to_magenta.xml" value="0.1085" />
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/drawable/gradient_red_to_magenta_top_down.xml" value="0.1085" />
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/drawable/rounded_edittext.xml" value="0.1085" />
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/drawable/rounded_edittext_background_grey.xml" value="0.1085" />
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/drawable/rounded_image_view.xml" value="0.141" />
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/yohni/Documents/atras/github/joki-uas-mobile-app/app/src/main/res/layout/activity_top_specification.xml" value="0.5701078582434514" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
